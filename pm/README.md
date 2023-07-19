@@ -1,0 +1,17 @@
+### PM processes
+
+- [Общие правила](generalRules.md)
+- [Сценарии различных ситуаций](typicalScenarios.md)
+- [Процесс оценки объекта на Presale](presaleProcess.md)
+- [Пример составления еженедельного отчета по выполненным работам](dailyReportGuide.md)
+- [Распределение ответственности между лидами и менеджером проекта по соблюдению плана работ](PlanResponsibilityBetweenPMandLead.md)
+- [Овертаймы](overtime.md)
+- [Процессы](PMOprocesses.md)
+- [Демо](demo.md)
+- [Передача артефактов проекта клиенту](project_transfer.md)
+- [Процесс отчётности по проекту](ProjectReportsGuide.md)
+- [Правила написания технического задания](TechnicalSpecification.md)
+- [Процесс оценки списка задач](Estimation.md)
+- [Описание бизнес-процесса использования dashboard плана этапа проекта](dashboardGuide.md)
+- [Чеклист: что делать, если мы берем в работу проект не с нуля](outsideNewProject.md)
+- [Процесс отказа от поддержки старых версий ОС](discontinueSupportOfObsoleteOSVersions.md)

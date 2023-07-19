@@ -1,0 +1,27 @@
+{
+  "presets": [
+    ["env", { "modules": false, "useBuiltIns": "usage"}],
+    "babel-preset-stage-0",
+    ["react"],
+    ["stage-2"]
+  ],
+  "plugins": [
+    ["transform-class-properties", { "spec": true }],
+    "react-hot-loader/babel",
+    "syntax-dynamic-import",
+    "lodash",
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@root": "./app"
+        }
+      }
+    ]
+  ],
+  "env": {
+    "dev": {
+      "plugins": []
+    }
+  }
+}
